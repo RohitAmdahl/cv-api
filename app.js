@@ -7,6 +7,10 @@ app.get("/", (req, res) => {
   res.send("Hello World!");
 });
 
+const cvdata_routes = require("./routes/cvdata");
+
+app.use("/api/cvdata", cvdata_routes);
+
 const startServer = () => {
   try {
     app.listen(port, () => {
