@@ -9,6 +9,7 @@ app.get("/", (req, res) => {
 
 const cvdata_routes = require("./routes/cvdata");
 
+// middleware to parse json data from request body to object in express app object
 app.use("/api/cvdata", cvdata_routes);
 
 const startServer = () => {
