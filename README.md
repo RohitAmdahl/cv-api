@@ -15,7 +15,7 @@
 
 ## Bulid with / will have the following
 
-JavaScript, Node.js, Express, MongoDB
+JavaScript, Node.js, Express, MongoDB,
 Html, Sass, Javascript, Javascript webComponents.
 
 <!-- ## Dependencies
