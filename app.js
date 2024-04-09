@@ -1,3 +1,5 @@
+require("dotenv").config();
+
 const express = require("express");
 const app = express();
 
@@ -16,7 +18,7 @@ app.use("/api/cvdata", cvdata_routes);
 
 const startServer = async () => {
   try {
-    await connectDB();
+    await connectDB(console.log("Database connected"));
     app.listen(port, () => {
       console.log(`Server running on port ${port}`);
     });
