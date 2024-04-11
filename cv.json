@@ -1,20 +1,20 @@
 [
   {
-    "name": "Test- 1",
-    "email": "qgBZd@example.com",
-    "phone": 1234567890,
-    "address": "USA",
+    "name": "Rohit Kumar Amdahl",
+    "email": "rohit_designer@outlook.com",
+    "phone": 40538464,
+    "address": "Norway",
     "picture": "https://magna-aliqua.github.io/cv.png",
     "title": "Software Developer",
-    "description": "lorem ipsum doller sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    "description": "Passionate sharing coding knowledge and dedicated to crafting accessible products. I'm a dedicated Frontend Developer based in Oslo, Norway. I love creating beautiful, performant, and interactive websites. I'm always looking to improve my skills and stay up-to-date with the latest technologies."
   },
   {
-    "name": "Test- 5",
-    "email": "qgBZd@example.com",
-    "phone": 1234567890,
-    "address": "USA",
+    "name": "Rohit Kumar Amdahl",
+    "email": "rohit_designer@outlook.com",
+    "phone": 40538464,
+    "address": "Norway",
     "picture": "https://magna-aliqua.github.io/cv.png",
     "title": "Software Developer",
-    "description": "lorem ipsum doller sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    "description": "Passionate sharing coding knowledge and dedicated to crafting accessible products. I'm a dedicated Frontend Developer based in Oslo, Norway. I love creating beautiful, performant, and interactive websites. I'm always looking to improve my skills and stay up-to-date with the latest technologies."
   }
 ]
