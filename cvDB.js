@@ -1,3 +1,4 @@
+require("dotenv").config();
 const connectDB = require("./db/connect");
 const cv = require("./models/cvmodel");
 
@@ -7,8 +8,8 @@ const start = async () => {
   try {
     await connectDB(process.env.MONGODB_URI);
 
-    await cvData.create(cv.json);
-    console.log(data);
+    await cv.create(cvData);
+    console.log("data");
   } catch (error) {
     console.log(error);
   }
