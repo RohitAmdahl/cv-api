@@ -11,8 +11,8 @@
 - npm install
 - npm run dev
 - npm run start
-- Visit http://localhost:5000/
-- Visit http://localhost:5000/api/cvdata -- in terminal run - node CvDB.js
+- Visit http://localhost:3000/
+- Visit http://localhost:3000/api/cvdata -- in terminal run - node CvDB.js
 
 ## Bulid with
 
